@@ -1,0 +1,6 @@
+.vs/
+HashUtils.Tests/bin/
+HashUtils.Tests/obj/
+HashUtils/bin/
+HashUtils/obj/
+packages/
