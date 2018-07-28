@@ -2,7 +2,7 @@ namespace HashUtils {
 	public class Crc32 {
 		public static readonly Crc32 CRC32 = new Crc32(0xedb88320);
 		public static readonly Crc32 CRC32C = new Crc32(0x82f63b78);
-		
+
 		private readonly uint[] _table = new uint[256];
 
 		public Crc32(uint poly) {
