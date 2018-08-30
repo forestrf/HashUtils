@@ -49,5 +49,13 @@
       <Name>BBuffer</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="LICENSE HashUtils">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="LICENSE wit-incontrol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

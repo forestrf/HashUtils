@@ -1,5 +1,5 @@
 ﻿// https://code.google.com/archive/p/wit-incontrol/
-// MIT License
+// MIT License 2012
 // Bobby Cafazzo, Michael Muesch, Jason Torosian, Cory Zinkiewicz
 
 using BBuffer;
